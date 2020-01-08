@@ -1,2 +1,3 @@
 # grab-the-words
-Python抓取有道、扇贝词库
+
+Python抓取有道词库
